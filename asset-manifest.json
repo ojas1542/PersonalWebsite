@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.dc46f9ba.css",
-    "main.js": "/my-app/static/js/main.ebd15207.js",
+    "main.css": "/my-app/static/css/main.84cff9d2.css",
+    "main.js": "/my-app/static/js/main.04ad95a3.js",
     "static/media/me-about.jpg": "/my-app/static/media/me-about.cec67ad7360d66cb92e8.jpg",
     "static/media/me.png": "/my-app/static/media/me.052ec18c34a3940c71ba.png",
     "static/media/Ojas_Upadhye_resume.pdf": "/my-app/static/media/Ojas_Upadhye_resume.6cc97d21bf5356ee345c.pdf",
     "index.html": "/my-app/index.html",
-    "main.dc46f9ba.css.map": "/my-app/static/css/main.dc46f9ba.css.map",
-    "main.ebd15207.js.map": "/my-app/static/js/main.ebd15207.js.map"
+    "main.84cff9d2.css.map": "/my-app/static/css/main.84cff9d2.css.map",
+    "main.04ad95a3.js.map": "/my-app/static/js/main.04ad95a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc46f9ba.css",
-    "static/js/main.ebd15207.js"
+    "static/css/main.84cff9d2.css",
+    "static/js/main.04ad95a3.js"
   ]
 }
