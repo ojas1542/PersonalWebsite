@@ -12,21 +12,6 @@ const Experience = () => {
         <h3>Frontend Development</h3>
         <div className='experience__content'>
           <article className='experience_details'>
-            <BsPatchCheckFill className='experience_details-icon' />
-            <div>
-              <h4>HTML</h4>
-              <small className='text-light'>Intermediate</small>
-            </div>
-          </article>
-          <article className='experience_details'>
-            <BsPatchCheckFill className='experience_details-icon'/>
-            <div>
-            <h4>CSS</h4>
-            <small className='text-light'>Intermediate</small>
-            </div>
-
-          </article>
-          <article className='experience_details'>
             <BsPatchCheckFill className='experience_details-icon'/>
             <div>
             <h4>JavaScript</h4>
@@ -77,6 +62,14 @@ const Experience = () => {
           <article className='experience_details'>
             <BsPatchCheckFill className='experience_details-icon'/>
             <div>
+            <h4>C#</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+ 
+          </article>
+          <article className='experience_details'>
+            <BsPatchCheckFill className='experience_details-icon'/>
+            <div>
             <h4>C++</h4>
             <small className='text-light'>Intermediate</small>
             </div>
@@ -101,9 +94,18 @@ const Experience = () => {
           <article className='experience_details'>
             <BsPatchCheckFill className='experience_details-icon'/>
             <div>
-            <h4>Streamlit</h4>
-            <small className='text-light'>Intermediate</small>
+            <h4>SQL Server</h4>
+            <small className='text-light'>Experienced</small>
             </div>
+ 
+          </article>
+          <article className='experience_details'>
+            <BsPatchCheckFill className='experience_details-icon'/>
+            <div>
+            <h4>.NET Core</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+ 
           </article>
         </div>
       </div>

@@ -13,10 +13,12 @@ const Contact = () => {
               <AiOutlineMail className='email__icon'></AiOutlineMail>
               <h4>ojasupadhye@gmail.com</h4>
               </article>
-              <article className='contact__card'>
+
+              
+              {/* <article className='contact__card'>
               <BiPhone className='phone__icon'></BiPhone>
               <h4>(650)942-3180</h4>
-              </article>
+              </article> */}
             </div>
           </div>
     </section>

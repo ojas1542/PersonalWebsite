@@ -13,23 +13,25 @@
 }
 
 .contact__cards {
-    padding-top: 15rem;
-    padding-left: 25rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 33rem;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 2rem;
 }
 
 .contact__card {
+    white-space: nowrap;
     background: var(--color-bg-variant);
     border: 1px solid transparent;
     border-radius: 2rem;
-    padding: 3rem;
+    padding: 4rem; /* Increase padding for more space */
     text-align: center;
     transition: var(--transition);
-
-
+    font-size: 1.2rem; /* Adjust font size as needed */
 }
+
 
 .contact__card:hover {
     background: transparent;
